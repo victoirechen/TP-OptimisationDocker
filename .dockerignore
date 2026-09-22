@@ -1,0 +1,13 @@
+# Dépendances locales
+node_modules
+
+# Contrôle de version et environnement
+.git
+.gitignore
+
+# Logs et métadonnées
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+README.md
